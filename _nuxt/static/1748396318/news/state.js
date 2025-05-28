@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Furbandev\u002F_nuxt\u002Fstatic\u002F1748396318",layout:"default",error:a,serverRendered:true,routePath:"\u002Fnews",config:{baseUrl:b,axios:{browserBaseURL:b},_app:{basePath:"\u002Furbandev\u002F",assetsPath:"\u002Furbandev\u002F_nuxt\u002F",cdnURL:a}}}}(null,void 0));
